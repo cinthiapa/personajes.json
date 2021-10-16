@@ -1,0 +1,70 @@
+{
+  "comidas": [
+    {
+      "id": 0,
+      "title": "Gon Freecss",
+      "description": "Gon Freecss (ゴン = フリークス, Gon Furīkusu) es el protagonista de la serie de manga y anime Hunter × Hunter. Está en búsqueda de su padre, el famoso cazador Ging Freecss.",
+      "urlImage": "https://www.otakulegion.com/wp-content/uploads/2020/11/HunterxHunter-Gon.jpg",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Gon_Freecss",
+      "tags": [
+        "Gon Freecss",
+        "Gon"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Killua Zoldyck",
+      "description": "Killua Zoldyck (キルア・ゾルディック, Kirua Zorudikku) es el coprotagonista y el mejor amigo de Gon Freecss. Es el tercero de los cinco hijos de la familia Zoldyck.​",
+      "urlImage": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/02/pjimage-2021-02-17T171727.443.jpg",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Killua_Zoldyck",
+      "tags": [
+        "Killua Zoldyck",
+        "Killua"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kurapika",
+      "description": "Kurapika (クラピカ, Kurapika) es uno de los cuatro protagonistas principales de la serie Hunter x Hunter. Busca venganza por su sangriento pasado.",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/it/e/ef/Krapika2.png",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Kurapika",
+      "tags": [
+        "Kurapika",
+        "kurapika"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Leorio Paladiknight",
+      "description": "Leorio Paradinight (レオリオ=パラディナイト, Reorio Paradinaito) es un cazador novato y actualmente es estudiante de medicina, así como un miembro de los zodiacos con el nombre en clave; Él es parte de la División de Ciencia, creada en preparación para el viaje al Continente Oscuro.",
+      "urlImage": "https://www.radiodemente.cl/wp-content/uploads/2020/04/Leorio.jpg",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Leorio_Paradinight",
+      "tags": [
+        "Leorio Paladiknight",
+        "Leorio"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Hisoka Morow",
+      "description": "Hisoka Morow (ヒソカ モロウ, Hisoka Morou) es un Cazador y antiguo miembro de la Brigada Fantasma. Él siempre está en busca de oponentes fuertes, y perdonará a los que tienen un gran potencial, como Gon y Killua para que sean lo suficientemente fuertes como para realmente desafiarlo.",
+      "urlImage": "https://comiqueros.cl/wp-content/uploads/2021/05/Hisoka-2-scaled.jpg",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Hisoka_Morow",
+      "tags": [
+        "Hisoka Morow",
+        "Hisoka"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Meruem",
+      "description": "Meruem (メルエム, Meruemu) fue el más poderoso descendiente de la hormiga quimera reina, y el Rey de las Hormigas Quimera. Él es el antagonista principal del arco de las Hormigas Quimera.​",
+      "urlImage": "https://sm.ign.com/t/ign_latam/screenshot/default/meruem2_sb8r.1280.jpg",
+      "urlRecipe": "https://hunterxhunter.fandom.com/es/wiki/Meruem",
+      "tags": [
+        "Meruem",
+        "Rey de las H. Quimeras"
+      ]
+    }
+  ]
+}
